@@ -1,0 +1,19 @@
+
+import turtle as t
+
+t.pensize(10)
+t.color('blue')
+
+t.begin_fill()
+t.forward(150)
+t.backward(200)
+
+t.right(90)
+t.forward(100)
+
+t.left(90)
+t.forward(200)
+
+t.left(90)
+t.forward(100)
+t.end_fill()
